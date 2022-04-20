@@ -5,3 +5,4 @@ git commit -m "message"
 git log
 git check out master
 git remote  add 
+git remote pathname
